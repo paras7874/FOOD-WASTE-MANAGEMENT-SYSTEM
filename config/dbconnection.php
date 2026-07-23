@@ -4,9 +4,9 @@
 //Database connection file
 
 $host='localhost';
-$username='root';
-$password='root';
-$dbname='project_demo';
+$username='';
+$password='';
+$dbname='';
 
 //create connection
 
